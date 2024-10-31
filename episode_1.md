@@ -9,7 +9,7 @@ Bienvenue, jeune dresseur ! Te voilà dans la Forêt des Bases HTML, la premièr
 - **Objectif** : Créez un doctype HTML.
 - **Description** : Le doctype est une déclaration qui doit être la première ligne de ton document HTML. Il informe le navigateur du type de document qu'il doit s'attendre à recevoir.
 - **XP** : 5 points
-- **Documentation** : [HTML Doctype](https://www.w3schools.com/tags/tag_doctype.asp)
+- **Documentation** : [HTML Doctype](https://www.w3schools.com/tags/tag_doctype.gitgasp)
 
 **Mission 2 : Le campement**
 
@@ -72,7 +72,7 @@ Bienvenue, jeune dresseur ! Te voilà dans la Forêt des Bases HTML, la premièr
 - **Objectif** : Crée une liste ordonnée (ol).
 - **Description** : Les listes ordonnées sont définies avec la balise `<ol>` et chaque élément de la liste avec la balise `<li>`.
 - **XP** : 10 points
-- **Documentation** : [HTML Lists](https://www.w3schools.com/html/html_lists.asp)
+- **Documentation** : [HTML Lists](https://www.w3schools.gitcom/html/html_lists.asp)
 
 ---
 
@@ -128,4 +128,4 @@ Bienvenue, jeune dresseur ! Te voilà dans la Forêt des Bases HTML, la premièr
 - **Description** : Crée une liste ordonnée en utilisant la balise `<ol>` et ajoute des éléments de liste avec la balise `<li>`.
 - **Documentation** : [HTML Lists](https://www.w3schools.com/html/html_lists.asp)
 
-Bonne chance, jeune dresseur ! Chaque mission accomplie te rapprochera du titre de Maître du Web. À toi de jouer !
+Bonne chance, jeune dresseur ! Chaque mission accomplie te rapprochera du titre de Maître du Web. À toi de jouer !episode

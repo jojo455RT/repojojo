@@ -20,7 +20,7 @@ Afin de bien organiser votre projet et suivre votre progression à travers les �
    Ajoutez un dépôt distant (par exemple, sur GitHub) où vous pousserez vos branches :
    ```sh
    git remote add origin https://github.com/votre-utilisateur/votre-projet.git
-   ```
+   ```hhepi
 
 #### Gestion des Branches pour chaque Épisode
 
